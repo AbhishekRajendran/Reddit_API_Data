@@ -40,6 +40,8 @@ For a more in-depth understanding of the used libraries, refer to the official d
 
 ### For text data analysis
 
+pip install pandas datetime matplotlib seaborn wordcloud transformers plotly
+
 pandas: A powerful data manipulation and analysis library.
 
 datetime: A module to work with dates and times.
@@ -58,10 +60,9 @@ huggingface/transformers: Hugging Face's Transformers library for working with t
 
 wordcloud: A library for creating word clouds.
 
-torch: PyTorch, an open-source deep learning library.
-
 bhadresh-savani/distilbert-base-uncased-emotion: A Hugging Face model for emotion analysis using DistilBERT.
 
 facebook/roberta-hate-speech-dynabench-r4-target: A Hugging Face model for hate speech classification using RoBERTa.
 
-## Usage
+## Analysis Steps
+
