@@ -66,3 +66,6 @@ facebook/roberta-hate-speech-dynabench-r4-target: A Hugging Face model for hate 
 
 ## Analysis Steps
 
+* Sentiment Analysis
+* Hate Speech Classification
+* Emotion Analysis Trends
