@@ -6,8 +6,7 @@
 
 1. [Introduction](#introduction)
 2. [Setup](#setup)
-3. [Usage](#usage)
-4. [Analysis Steps](#analysis-steps)
+3. [Analysis Steps](#analysis-steps)
 
 
 ## Introduction
@@ -38,5 +37,31 @@ pandas: Used for data manipulation and analysis. The fetched data from Reddit wi
 Note:
 This script is a reference for fetching top posts from specified subreddits based on the time filter. Customize it according to your needs.
 For a more in-depth understanding of the used libraries, refer to the official documentation: praw documentation and pandas documentation.
+
+### For text data analysis
+
+pandas: A powerful data manipulation and analysis library.
+
+datetime: A module to work with dates and times.
+
+matplotlib: A plotting library for creating static, interactive, and animated visualizations.
+
+seaborn: A statistical data visualization library based on Matplotlib.
+
+WordCloud: A library for creating word clouds.
+
+transformers: A library from Hugging Face for natural language processing (NLP) using pre-trained transformer models.
+
+plotly: A graphing library for creating interactive, publication-quality graphs and dashboards.
+
+huggingface/transformers: Hugging Face's Transformers library for working with transformer-based models.
+
+wordcloud: A library for creating word clouds.
+
+torch: PyTorch, an open-source deep learning library.
+
+bhadresh-savani/distilbert-base-uncased-emotion: A Hugging Face model for emotion analysis using DistilBERT.
+
+facebook/roberta-hate-speech-dynabench-r4-target: A Hugging Face model for hate speech classification using RoBERTa.
 
 ## Usage
